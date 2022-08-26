@@ -1,6 +1,6 @@
 {
   "stackblitzBot": {
     "issues": true,
-    "pullRequest": true,
+    "pullRequest": true
   }
 }
